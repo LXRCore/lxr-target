@@ -20,8 +20,7 @@ client_scripts {
 }
 
 server_scripts {
-    '@lxr-core/server/locale.lua',
-    'server.lua'
+    'server.lua',
 }
 
 files {
