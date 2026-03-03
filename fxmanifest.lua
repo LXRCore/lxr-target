@@ -1,10 +1,45 @@
+--[[
+    ████████╗ █████╗ ██████╗  ██████╗ ███████╗████████╗
+       ██╔══╝██╔══██╗██╔══██╗██╔════╝ ██╔════╝╚══██╔══╝
+       ██║   ███████║██████╔╝██║  ███╗█████╗     ██║   
+       ██║   ██╔══██║██╔══██╗██║   ██║██╔══╝     ██║   
+       ██║   ██║  ██║██║  ██║╚██████╔╝███████╗   ██║   
+       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   
+    
+    🐺 LXR Target - Advanced Interaction & Targeting System
+    
+    ═══════════════════════════════════════════════════════════════════════════════
+    SERVER INFORMATION
+    ═══════════════════════════════════════════════════════════════════════════════
+    
+    Server:      The Land of Wolves 🐺
+    Developer:   iBoss21 / The Lux Empire
+    Website:     https://www.wolves.land
+    Discord:     https://discord.gg/CrKcWdfd3A
+    Store:       https://theluxempire.tebex.io
+    
+    ═══════════════════════════════════════════════════════════════════════════════
+    
+    Framework Support:
+    - LXR Core  (Primary)
+    - RSG Core  (Primary)
+    - VORP Core (Supported)
+    - Standalone (Fallback)
+    
+    ═══════════════════════════════════════════════════════════════════════════════
+    
+    © 2026 iBoss21 / The Lux Empire | wolves.land | All Rights Reserved
+]]
+
 fx_version 'cerulean'
-game 'rdr3'
+game       'rdr3'
+
 rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aware my resources *will* become incompatible once RedM ships.'
 
-author 'BerkieB & LXR Development Team'
-description 'An optimized interaction system for LXRCore, based on qtarget'
-version '5.2.2'
+name        'lxr-target'
+author      'iBoss21 / The Lux Empire — wolves.land'
+description 'Advanced interaction & targeting system for LXRCore | RedM | wolves.land'
+version     '5.2.2'
 
 ui_page 'html/index.html'
 
